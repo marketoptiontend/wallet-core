@@ -2,7 +2,7 @@
   {
     "id": "bitcoin",
     "name": "Bitcoin",
-    "coinId": 0,
+    "coinId": 5000000,
     "symbol": "BTC",
     "decimals": 8,
     "blockchain": "Bitcoin",
